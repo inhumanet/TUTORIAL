@@ -1,1 +1,1 @@
-Repositório para as Aulas do Curso Técnico em Infomrática na discila Projeto de Desenvolvimento de Sistemas
+Repositório para as Aulas do Curso Técnico em Informática na disciplina Projeto de Desenvolvimento de Sistemas
